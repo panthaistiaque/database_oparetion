@@ -4,10 +4,10 @@
 #----------------------------------------
 HOSTNAME='192.168.10.122'
 PORT='5432'
-USERNAME='ehosp_pro'
-PASSWORD='eHosp#Pro'
+USERNAME='######'
+PASSWORD='######'
 DAYS_TO_KEEP=15
-DATABASE='ehospital_1_3_1'
+DATABASE='eho#_1_3_1'
 BACKUP_PATH='/d/DBBackup/fhs'
 NOW="$(date +'%Y%m%d_%H%M')"
 #----------------------------------------
