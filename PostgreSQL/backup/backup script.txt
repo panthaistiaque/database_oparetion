@@ -1,0 +1,3 @@
+cd "C:\Program Files\PostgreSQL\12\bin\"
+pg_restore -h localhost -p 5432 -U postgres -d ehosp_mhb2 -v "D:\DBBackup\KAAP_MHB_2\20230724_2335_ehospital_1_3_1.backup"
+1234
