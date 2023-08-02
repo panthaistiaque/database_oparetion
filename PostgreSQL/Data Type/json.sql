@@ -40,3 +40,6 @@ FROM Purchase
 WHERE CAST ( Purchase_description-> 'items' ->> 'qty' AS INTEGER) = 3 ;
 
 
+-- json_each()
+-- json_object_keys ()
+-- json_typeof()
