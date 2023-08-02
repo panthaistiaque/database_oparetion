@@ -9,3 +9,5 @@
 	- ### [demo_procedure.sql](https://github.com/panthaistiaque/database_oparetion/blob/main/PostgreSQL/procedure/demo_procedure.sql)
 - ### [backup](https://github.com/panthaistiaque/database_oparetion/tree/main/PostgreSQL/backup)
 	- ### [backup.sh](https://github.com/panthaistiaque/database_oparetion/blob/main/PostgreSQL/backup/backup.sh)
+- ### [Data Type](https://github.com/panthaistiaque/database_oparetion/tree/main/PostgreSQL/Data%20Type)
+	- ### [json.sql](https://github.com/panthaistiaque/database_oparetion/blob/main/PostgreSQL/Data%20Type/json.sql)https://github.com/panthaistiaque/database_oparetion/blob/main/PostgreSQL/Data%20Type/json.sql)
