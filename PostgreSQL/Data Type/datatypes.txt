@@ -1,0 +1,20 @@
+01. Numeric datatype
+02. Character datatype
+03. Date/time datatype
+04. Monetary data type
+05. Binary data type
+06. Boolean data type
+07. Enumerated data type
+08. Geometric data type
+09. Text search data type
+10. UUID data type
+11. Network address type
+12. JSON data type
+13. Bit string type
+14. XML data type
+15. Range data type
+15. Arrays
+16. Composite data type
+17. Object identifiers type
+18. Pseudo data type
+19. pg-Isn data type
