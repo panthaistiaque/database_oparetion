@@ -1,4 +1,4 @@
-# database_oparetion
+# Database Oparetion
 
 
 As a software developer, possessing a comprehensive understanding of databases is essential for refining your software development expertise. Databases play a pivotal role in efficiently storing and retrieving data, making it imperative to master SQL database management. This repository acts as a convenient cheat sheet, aiding in the recollection and retention of various SQL database concepts and peculiarities. It aims to offer concise reference notes for distinct SQL databases encountered throughout my 6-year journey. While the fundamentals of SQL databases remain constant, you might come across nuanced distinctions in different database systems.
