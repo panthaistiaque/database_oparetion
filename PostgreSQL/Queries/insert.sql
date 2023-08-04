@@ -36,11 +36,8 @@ CREATE TABLE department_tmp (LIKE department);
 
 -- Insert data from another table
 INSERT INTO department_tmp   
-SELECT *  
-FROM  
-department  
-WHERE  
-last_update IS NOT NULL; 
+SELECT *  FROM department  
+WHERE last_update IS NOT NULL; 
 
 
 
