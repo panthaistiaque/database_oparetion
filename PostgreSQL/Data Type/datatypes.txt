@@ -45,6 +45,25 @@
 04. Monetary data type
 05. Binary data type
 06. Boolean data type
+
++---------+---------+
+| True    | False   |
++---------+---------+
+| true    | false   |
++---------+---------+
+| 't'     | 'f '    |
++---------+---------+
+| 'true'  | 'false' |
++---------+---------+
+| 'y'     | 'n'     |
++---------+---------+
+| 'yes'   | 'no'    |
++---------+---------+
+| '1'     | '0'     |
++---------+---------+
+
+
+
 07. Enumerated data type
 08. Geometric data type
 09. Text search data type
