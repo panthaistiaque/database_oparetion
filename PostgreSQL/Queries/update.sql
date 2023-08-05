@@ -14,3 +14,11 @@ UPDATE department
     location = 'NewYork'  
 WHERE  dept_id = 1   
 RETURNING dept_id, description, location;  
+
+
+
+
+ update patient 
+ set dob = '1991-11-10'
+ where patient_code = 'PHC1500033728'
+ returning patient_id, patient_code, full_name;
