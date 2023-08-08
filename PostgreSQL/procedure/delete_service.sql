@@ -58,5 +58,5 @@ begin
 end;$$
 
 
---call delete_service('HH0900033124');
+--call delete_service('FH16230808078832');
 --drop procedure delete_service(varchar(20));
