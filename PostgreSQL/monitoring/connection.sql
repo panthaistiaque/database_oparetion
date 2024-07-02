@@ -10,7 +10,7 @@ select pid as process_id,
        state_change
 from pg_stat_activity;
 
-select *   from pg_stat_activity where state = 'idle';
+select usename, count(*) from pg_stat_activity where state = 'idle' group by usename;
 
 -- ---------------- drop all idle connection ------------------------------------
 
